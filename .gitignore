@@ -2,3 +2,4 @@
 placeimg-*.gem
 vendor
 .bundle
+Gemfile.lock

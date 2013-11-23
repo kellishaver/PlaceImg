@@ -19,5 +19,6 @@ Gem::Specification.new do |s|
 
   s.add_dependency "rails", ">= 3.0"
   s.add_dependency "rmagick"
+  s.add_development_dependency "rspec"
 
 end
