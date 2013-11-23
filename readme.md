@@ -67,8 +67,3 @@ You can pass some, all, or no options to the helper. Below are the defaults:
 * w = 250
 * class = *empty string*
 * id = *empty string*
-
-ToDo
-----
-
-* Tests - PlaceImg should be pretty fool-proof, but it could use a test or two.
