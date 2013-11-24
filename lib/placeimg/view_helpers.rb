@@ -28,7 +28,7 @@ module Placeimg
         font_size = (details[:h] / 5).ceil
       end
 
-      if font_size < 10
+      if font_size >= 10
         txt = Draw.new
 
         img.annotate(txt, 0,0,0,0, "#{details[:w].to_s}x#{details[:h].to_s}") {
